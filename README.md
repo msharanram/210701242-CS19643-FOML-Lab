@@ -14,6 +14,12 @@ os
 
 ![image](https://github.com/msharanram/CS19643-FOML-lab-242/assets/143394769/d9f742b1-2b6d-4e81-a89d-b9bd5c1c253c)
 
+# Installation
+1. Create a new project in pycharm
+2. Under a single folder add the assests, main.py , config-feedforward.txt
+3. Install all the requirments module
+4. Run the Main.py 
+
 
 
 
