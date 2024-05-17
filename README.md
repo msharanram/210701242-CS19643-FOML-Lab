@@ -4,9 +4,9 @@ This project implements an AI to play the popular game flappy bird using NeuroEv
 The game is created using pygame which is a module from python to create 2D games
 
 # Modules Used:
-Matplotlib
-neat
-pygame
+Matplotlib,
+neat,
+pygame,
 os
 
 # Screenshots
